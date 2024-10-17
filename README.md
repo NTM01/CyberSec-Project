@@ -22,7 +22,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/password-strength-checker.git
+   git clone https://github.com/NTM01/Password-Strength-Checker.git
 
 2. Navigate to the project directory:
 
