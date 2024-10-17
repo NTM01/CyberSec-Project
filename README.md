@@ -27,7 +27,7 @@
 2. Navigate to the project directory:
 
    ```bash
-    cd Password-strength-checker
+    cd Password-Strength-Checker
 
 3. Open the index.html file in your preferred browser.
    ```bash
